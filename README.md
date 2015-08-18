@@ -1,6 +1,6 @@
 # gittest
 gittest
 
-##ƒƒ“ƒo[
+##member
 
 *jsak
